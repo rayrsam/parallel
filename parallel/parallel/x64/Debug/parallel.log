@@ -1,0 +1,43 @@
+﻿  parallel.cpp
+D:\deadinside\hits\parallel\parallel\lodepng.cpp(687,54): warning C4334: <<: результат 32-разрядного смещения неявно преобразуется в 64-разрядное значение (предполагалось 64-разрядное смещение?)
+D:\deadinside\hits\parallel\parallel\lodepng.cpp(705,35): warning C4267: =: преобразование из "size_t" в "unsigned short"; возможна потеря данных
+D:\deadinside\hits\parallel\parallel\lodepng.cpp(706,39): warning C4334: <<: результат 32-разрядного смещения неявно преобразуется в 64-разрядное значение (предполагалось 64-разрядное смещение?)
+D:\deadinside\hits\parallel\parallel\lodepng.cpp(730,37): warning C4267: =: преобразование из "size_t" в "unsigned short"; возможна потеря данных
+D:\deadinside\hits\parallel\parallel\lodepng.cpp(747,38): warning C4267: =: преобразование из "size_t" в "unsigned short"; возможна потеря данных
+D:\deadinside\hits\parallel\parallel\lodepng.cpp(3726,78): warning C4267: аргумент: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+D:\deadinside\hits\parallel\parallel\lodepng.cpp(4729,33): warning C4267: =: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+D:\deadinside\hits\parallel\parallel\lodepng.cpp(4998,60): warning C4267: аргумент: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+D:\deadinside\hits\parallel\parallel\lodepng.cpp(5003,83): warning C4267: аргумент: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+D:\deadinside\hits\parallel\parallel\lodepng.cpp(5004,94): warning C4267: аргумент: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+D:\deadinside\hits\parallel\parallel\lodepng.cpp(5005,83): warning C4267: аргумент: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+D:\deadinside\hits\parallel\parallel\lodepng.cpp(5006,94): warning C4267: аргумент: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+D:\deadinside\hits\parallel\parallel\lodepng.cpp(5007,83): warning C4267: аргумент: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+D:\deadinside\hits\parallel\parallel\lodepng.cpp(5008,94): warning C4267: аргумент: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+D:\deadinside\hits\parallel\parallel\lodepng.cpp(5009,78): warning C4267: аргумент: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+D:\deadinside\hits\parallel\parallel\lodepng.cpp(5204,3): warning C4267: аргумент: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+D:\deadinside\hits\parallel\parallel\lodepng.cpp(5228,7): warning C4267: аргумент: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+D:\deadinside\hits\parallel\parallel\lodepng.cpp(5262,62): warning C4267: аргумент: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+D:\deadinside\hits\parallel\parallel\lodepng.cpp(5279,3): warning C4267: аргумент: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+D:\deadinside\hits\parallel\parallel\lodepng.cpp(5301,57): warning C4267: аргумент: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+D:\deadinside\hits\parallel\parallel\lodepng.cpp(5332,57): warning C4267: аргумент: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+D:\deadinside\hits\parallel\parallel\lodepng.cpp(5445,57): warning C4267: аргумент: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+D:\deadinside\hits\parallel\parallel\lodepng.cpp(5559,33): warning C4334: <<: результат 32-разрядного смещения неявно преобразуется в 64-разрядное значение (предполагалось 64-разрядное смещение?)
+D:\deadinside\hits\parallel\parallel\parallel.cpp(24,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\deadinside\hits\parallel\parallel\parallel.cpp(37,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\deadinside\hits\parallel\parallel\parallel.cpp(38,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\deadinside\hits\parallel\parallel\parallel.cpp(40,26): warning C4018: >: несоответствие типов со знаком и без знака
+D:\deadinside\hits\parallel\parallel\parallel.cpp(41,26): warning C4018: >: несоответствие типов со знаком и без знака
+D:\deadinside\hits\parallel\parallel\parallel.cpp(68,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\deadinside\hits\parallel\parallel\parallel.cpp(78,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\deadinside\hits\parallel\parallel\parallel.cpp(79,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\deadinside\hits\parallel\parallel\parallel.cpp(85,26): warning C4018: >: несоответствие типов со знаком и без знака
+D:\deadinside\hits\parallel\parallel\parallel.cpp(86,26): warning C4018: >: несоответствие типов со знаком и без знака
+D:\deadinside\hits\parallel\parallel\parallel.cpp(115,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\deadinside\hits\parallel\parallel\parallel.cpp(146,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\deadinside\hits\parallel\parallel\parallel.cpp(147,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\deadinside\hits\parallel\parallel\parallel.cpp(149,26): warning C4018: >: несоответствие типов со знаком и без знака
+D:\deadinside\hits\parallel\parallel\parallel.cpp(150,26): warning C4018: >: несоответствие типов со знаком и без знака
+D:\deadinside\hits\parallel\parallel\parallel.cpp(193,33): warning C4309: аргумент: усечение константного значения
+D:\deadinside\hits\parallel\parallel\parallel.cpp(217,27): warning C4305: инициализация: усечение из "__int64" в "int"
+D:\deadinside\hits\parallel\parallel\parallel.cpp(217,17): warning C4309: инициализация: усечение константного значения
+  parallel.vcxproj -> D:\deadinside\hits\parallel\x64\Debug\parallel.exe
